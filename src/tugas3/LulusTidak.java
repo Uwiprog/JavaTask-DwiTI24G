@@ -1,3 +1,4 @@
+package tugas3;
 import java.util.Scanner;
 
 public class LulusTidak {

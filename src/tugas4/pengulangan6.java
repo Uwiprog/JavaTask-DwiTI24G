@@ -1,4 +1,4 @@
-package algoritma.tugas4;
+package tugas4;
 
 public class pengulangan6 {
     public static void main(String[] args) {

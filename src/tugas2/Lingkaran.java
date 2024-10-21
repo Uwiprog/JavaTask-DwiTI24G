@@ -1,4 +1,4 @@
-package algoritma.tugas2;
+package tugas2;
 
 import java.util.Scanner;
 

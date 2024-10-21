@@ -1,3 +1,4 @@
+package latihan;
 import java.util.Scanner;
 
 public class Tugas2 {
