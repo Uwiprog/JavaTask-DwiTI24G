@@ -119,5 +119,6 @@ public class array2 {
 
             }
         } while (inputLagi.equals("y"));
+        sc.close();
     }
 }
