@@ -31,7 +31,9 @@ public class nilaiMahasiswa {
             String mataKuliah = sc.nextLine();
             System.out.print("SKS: ");
             int matkulSks = sc.nextInt();
+
             sc.nextLine();
+            
             System.out.print("Nilai: ");
             int matkulNilai = sc.nextInt();
             sc.nextLine();
